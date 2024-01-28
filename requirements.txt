@@ -1,0 +1,6 @@
+numpy
+opencv-python
+torch 
+torchvision
+tqdm
+#https://github.com/mlomnitz/DiffJPEG?tab=readme-ov-file
